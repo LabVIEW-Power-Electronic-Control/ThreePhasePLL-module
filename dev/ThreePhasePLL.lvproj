@@ -142,6 +142,10 @@
 				<Item Name="InstructionFrameworkFGV.vi" Type="VI" URL="/&lt;vilib&gt;/NI/DCAF/addons/InstructionFrameworkSupport/InstructionFrameworkFGV.vi"/>
 				<Item Name="AFE_interface.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/ActiveFrontEnd/AFE_Interface/AFE_interface.lvlib"/>
 				<Item Name="ThreePhasePLLInterface.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/ThreePhasePLL/Interface/ThreePhasePLLInterface.lvlib"/>
+				<Item Name="ThreePhasePLL.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/ThreePhasePLL/FPGA/ThreePhasePLL.lvlib"/>
+				<Item Name="LVJSON.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/JSON Support for LabVIEW/LVJSON.lvlib"/>
+				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
+				<Item Name="LVNumericRepresentation.ctl" Type="VI" URL="/&lt;vilib&gt;/numeric/LVNumericRepresentation.ctl"/>
 			</Item>
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="niInstr FIFO Register Bus v1 Host.lvclass" Type="LVClass" URL="/&lt;instrlib&gt;/_niInstr/FIFO Register Bus/v1/Host/niInstr FIFO Register Bus v1 Host.lvclass"/>
